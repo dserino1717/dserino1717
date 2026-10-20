@@ -10,7 +10,14 @@ Before joining The Information Lab, I worked as a Procurement Analyst at Madison
 
 Outside of work, you’ll find me playing piano, exploring music theory, staying active in the gym, cooking, and expanding my creative and personal growth.
 
-### Certifications
+## 🏆 Certifications
 
-- Tableau Data Analyst Certification (Sep 2026): https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=6MMwVGg1asMQLVs8eGd9s9ab4wcs3bjQKix4cveJtMysqeFWsEgnkoJ4sRXRx1j2
-- Alteryx Core Certification (Aug 2026): https://www.credly.com/badges/5ed493a8-a6d1-4db5-820e-11fa75f1043f/embedded
+<p align="left">
+  <a href="https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=6MMwVGg1asMQLVs8eGd9s9ab4wcs3bjQKix4cveJtMysqeFWsEgnkoJ4sRXRx1j2">
+    <img src="https://drm.my.salesforce.com/servlet/servlet.ImageServer?id=015Rf00000MAEbJ&oid=00DF0000000gZsu&lastMod=1746778793000" alt="Tableau Data Analyst" width="120">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.credly.com/badges/5ed493a8-a6d1-4db5-820e-11fa75f1043f/embedded">
+    <img src="https://images.credly.com/size/680x680/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Designer Core" width="120">
+  </a>
+</p>
