@@ -21,3 +21,15 @@ Outside of work, you’ll find me playing piano, exploring music theory, staying
     <img src="https://images.credly.com/size/680x680/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" alt="Alteryx Designer Core" width="120">
   </a>
 </p>
+
+## 🔗 Links
+<p align="left">
+  <a href=www.linkedin.com/in/dylan-serino">
+    <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="Linkedin" width="70" height="70">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://public.tableau.com/app/profile/dylan.serino/vizzes">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3w0W9cjVP6puOj2NeibZoZChkVBxT9dAZspEzpOdnRA&s=10" alt="Tableau Public" width="70" height="70">
+  <a href="https://community.alteryx.com/profile/819383/dserino17">
+    <img src="https://www.freelogovectors.net/wp-content/uploads/2023/11/alteryx_logo-freelogovectors.net_.png" alt="Alteryx" width="90" height="70">
+</p>
