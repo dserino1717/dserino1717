@@ -24,7 +24,7 @@ Outside of work, you’ll find me playing piano, exploring music theory, staying
 
 ## 🔗 Links
 <p align="left">
-  <a href=www.linkedin.com/in/dylan-serino">
+  <a href="www.linkedin.com/in/dylan-serino">
     <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="Linkedin" width="70" height="70">
   </a>
   &nbsp;&nbsp;
